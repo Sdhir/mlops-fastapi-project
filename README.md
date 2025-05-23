@@ -53,7 +53,3 @@ Install required python packages with requirement.txt before running the code.
 
 - View wandb run at: https://wandb.ai/sudhir-sornapudi-corteva-agriscience/mnist-mlops-project/runs/xu4j3fij
 - Find wandb logs at: ./wandb/run-20250523_024415-xu4j3fij/logs
-
-## CI/CD Pipeline
-
-I did not include this part as I did it with GitLab using Corteva resources for hosting the app.
