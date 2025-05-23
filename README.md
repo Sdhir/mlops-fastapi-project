@@ -1,4 +1,4 @@
-# MLOps-final-assignment
+# MLOps FastAPI Project
 
 ## Project Overview
 
